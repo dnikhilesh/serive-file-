@@ -2,7 +2,7 @@
 
 1.Clone this Repo using the git clone command
 
-git clone https://github.com/ferran9908/GitHub-Repo-Management.git/
+git clone https://github.com/dnikhilesh/serive-file-/tree/main
 
 2.Add your username and password in the Create.py script and change the path to your favorite directory.
 
